@@ -10,7 +10,7 @@ function convertToRoman(num) {
   const romanNumerals = [
     ['M', 1000], ['CM', 900], ['D', 500], ['CD', 400],
     ['C', 100], ['XC', 90], ['L', 50], ['XL', 40],
-    ['X', 10], ['IX', 9], ['V', 5], ['IV', 4], ['I', 1,]
+    ['X', 10], ['IX', 9], ['V', 5], ['IV', 4], ['I', 1]
   ];
 
   let result = '';
@@ -23,12 +23,6 @@ function convertToRoman(num) {
   return result;
 }
 
-convertButton.addEventListener('click', () => {
-  const inputValue = numberInput.value;
-  const result = getResult(inputValue);
-  output.textContent = result;
-});
-
 function getResult(inputValue) {
   if (inputValue === '') {
     return 'Please enter a valid number';
@@ -40,3 +34,9 @@ function getResult(inputValue) {
     return convertToRoman(Number(inputValue));
   }
 }
+
+convertButton.addEventListener('click', () => {
+  const inputValue = numberInput.value;
+  const result = getResult(inputValue);
+  output.textContent = result;
+});
