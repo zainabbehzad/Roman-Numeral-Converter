@@ -33,7 +33,8 @@ h1 {
   margin-bottom: 1.5rem;
 }
 
-input, button {
+input,
+ button {
   margin-bottom: 1rem;
   padding: 0.5rem 1rem;
   font-size: 1rem;
@@ -73,7 +74,8 @@ input, button {
     width: 600px;
   }
 
-  input, button {
+  input,
+   button {
     width: auto;
   }
 }
