@@ -6,7 +6,6 @@
 
 ## Demo 📸
 ![Screenshot (34)](https://github.com/zainabbehzad/Roman-Numeral-Converter/assets/168668702/27dffa11-a8be-4052-858d-4c25b94fe592)
-![Screenshot (34)](https://github.com/zainabbehzad/Roman-Numeral-Converter/assets/168668702/27dffa11-a8be-4052-858d-4c25b94fe592)
 
 
 
