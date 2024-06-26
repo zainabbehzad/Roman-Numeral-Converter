@@ -5,7 +5,9 @@
 🌟 👩‍💻The Roman Numeral Converter is built using HTML, CSS, and JavaScript. The JavaScript code contains a function that takes a number as input and returns the corresponding Roman numeral string. This function handles the conversion logic, which involves breaking down the number into its individual digits and then mapping each digit to the appropriate Roman numeral symbol.💻📝🚀
 
 ## Demo 📸
-![Screenshot (32)](https://github.com/zainabbehzad/Roman-Numeral-Converter/assets/168668702/093d8056-abd1-4410-8a95-163585f96ea0)
+![Screenshot (34)](https://github.com/zainabbehzad/Roman-Numeral-Converter/assets/168668702/27dffa11-a8be-4052-858d-4c25b94fe592)
+![Screenshot (34)](https://github.com/zainabbehzad/Roman-Numeral-Converter/assets/168668702/27dffa11-a8be-4052-858d-4c25b94fe592)
+
 
 
 ## -Palindrome-Checker 🛠️
