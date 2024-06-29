@@ -72,54 +72,8 @@ button {
   font-weight: bold;
   color: #333;
 }
-/*
-@media (min-width: 576px) {
-  .container {
-    width: 80%;
-  }
 
-  h1 {
-    font-size: 3rem;
-  }
-
-  p {
-    font-size: 1.5rem;
-  }
-
-  input,
-  button {
-    width: 45%;
-  }
-
-  #number,
-  #convert-btn {
-    width: 45%;
-  }
-}
-
-@media (min-width: 768px) {
-  .container {
-    width: 60%;
-  }
-}
-
-@media (min-width: 1200px) {
-  .container {
-    width: 40%;
-  }
-
-  h1 {
-    font-size: 4rem;
-  }
-
-  p {
-    font-size: 2rem;
-  }
-}
-*/
-
- /* Default (mobile) styles */
- body {
+body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 20px;
@@ -133,7 +87,6 @@ p {
   font-size: 16px;
 }
 
-/* Tablet and above */
 @media (min-width: 768px) {
   body {
     padding: 40px;
@@ -148,7 +101,6 @@ p {
   }
 }
 
-/* Desktop and above */
 @media (min-width: 1200px) {
   body {
     max-width: 1200px;
